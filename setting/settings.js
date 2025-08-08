@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 //~~~~~~~~~~~ 👑 Owner & Bot Identity ~~~~~~~~~~~//
-global.owner = "639691465580";
+global.owner = "2348033654467";
 global.developer = "639691465580";
 global.bot = "";
 global.devname = "💻 Imran Hacks";
@@ -19,7 +19,7 @@ global.linktele = "https://t.me/imrankhanbe";
 //~~~~~~~~~~~ ⚙️ Bot Settings ~~~~~~~~~~~//
 global.prefix = ["", "!", ".", ",", "#", "/", "🎭", "〽️"];
 global.autoRecording = false;
-global.autoTyping = true;
+global.autoTyping =false;
 global.autorecordtype = false;
 global.autoread = false;
 global.autobio = true;
